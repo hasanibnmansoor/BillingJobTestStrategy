@@ -18,7 +18,13 @@ Test Strategy for Background Billing Job of a Landline Telephone System
 
 ## Testing Types
 
+## Testing Tools
+
+## Automation Strategy
+
 ## Test Environment & Data Setup
 
 ## Test Scenarios
+
+## Risks and Mitigation
 
